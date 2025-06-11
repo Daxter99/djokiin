@@ -205,13 +205,13 @@ export default function Footer() {
             </div>
             <div className="text-sm">
               <p className="mb-3 text-indigo-200/65">
-                © Cruip.com
+                © Daxter
                 <span className="text-gray-700"> · </span>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="https://zluchifer.vercel.app"
                 >
-                  Terms
+                  Ezzy
                 </a>
               </p>
               <ul className="inline-flex gap-1">
