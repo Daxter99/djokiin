@@ -248,7 +248,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
-                    href="#0"
+                    href="https://github.com/Daxter99"
                     aria-label="Github"
                   >
                     <svg
