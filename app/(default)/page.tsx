@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "DJOKIIN - Berat Sama Dengan Dipikul, Ringan Sama Dengan Djokiin",
+  description: "Berat Sama Dengan Dipikul, Ringan Sama Dengan Djokiin",
 };
 
 import PageIllustration from "@/components/page-illustration";
